@@ -1,3 +1,4 @@
-// Define the numbers and the operation here
-
-// Write if-statements here
+let three = 3;
+let five = 5;
+let addition = "+";
+if (three + five) {console.log(Math works!);}
